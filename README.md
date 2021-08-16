@@ -9,7 +9,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ```
 git init
 
-git clone 
+git clone https://github.com/sanfosx/Webchaco02.git
 ```
 
 ### Pre-requisitos 📋
@@ -44,7 +44,6 @@ DATABASES = {
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 * **Santiago Foschiatti** - *Student* - [sanfosx]
 * **Lucas Ibañez** - *Developer* - [lucasibaniez]
 
