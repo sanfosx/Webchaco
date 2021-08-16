@@ -1,11 +1,16 @@
-# Mi Primer Sitio desarrollado en el Informatorio 
+# Sitio Web desarrollado en el Informatorio 2021 
 
-_Este es mi primer proyecto proyecto del modulo de desarollo web_
-_Usando template base: https://getbootstrap.com/docs/4.0/examples/album/_
+_Proyecto Web Chaco del modulo de desarollo web_
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
+```
+git init
+
+git clone 
+```
 
 ### Pre-requisitos 📋
 
@@ -40,9 +45,9 @@ DATABASES = {
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
+* **Santiago Foschiatti** - *Student* - [sanfosx]
 * **Lucas Ibañez** - *Developer* - [lucasibaniez]
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+
