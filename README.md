@@ -9,7 +9,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ```
 git init
 
-git clone https://github.com/sanfosx/Webchaco02.git
+git clone https://github.com/sanfosx/Webchaco.git
 ```
 
 ### Pre-requisitos 📋
